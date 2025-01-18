@@ -1,10 +1,13 @@
 # Java Spring Warm-up
 
-This project serves as a warm-up to revisit Java concepts with Spring, marking the start of the Java Spring Intensive week with the great professor Nelio Alves.
+This project serves as a warm-up to revisit key Java concepts with Spring, kicking off the Java Spring Intensive week led by the great professor Nelio Alves.
 
-I used Java, Spring with H2 database, Spring Data JPA, and Spring Web, all running on WSL with Ubuntu 22.04.
+Technologies used:
+- Java
+- Spring Framework (Spring Data JPA, Spring Web)
+- H2 Database
 
-## Contact
+All running smoothly on WSL with Ubuntu 22.04.
 
 For any questions or feedback, feel free to reach out:
 
